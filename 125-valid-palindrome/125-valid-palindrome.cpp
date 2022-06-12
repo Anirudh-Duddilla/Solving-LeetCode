@@ -13,13 +13,12 @@ public:
             }
             else if( !isalnum(s[b])){
                 // cout << "entered"<<"\n";
-                s.erase(b,1);
-                e--;
+                
+                b++;
                 continue;
             }
             else if( !isalnum(s[e])){
                 // cout << "entered"<<"\n";
-                s.erase(e,1);
                 e--;
                 continue;
             }
