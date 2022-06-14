@@ -21,7 +21,6 @@ public:
             }
             stk.push(c);
         }
-        if(stk.empty()){return true;}
-        else{return false;}
+        return stk.empty();
     }
 };
