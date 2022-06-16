@@ -21,18 +21,18 @@ public:
             min = head;
         }
         else{
-            node* temp = new node;
-            head -> next = temp;
-            temp -> prev = head;
-            temp -> data = val;
-            temp -> next = nullptr;
+            // node* temp = new node;
+            head -> next = new node;
+            head -> next -> prev = head;
+            head -> next -> data = val;
+            head -> next -> next = nullptr;
             head = head -> next;
             if(min -> data >= val){
-                node* tempmin = new node;
-                min -> next = tempmin;
-                tempmin -> prev = min;
-                tempmin -> data = val;
-                tempmin -> next = nullptr;
+                // node* tempmin = new node;
+                min -> next = new node;
+                min -> next -> prev = min;
+                min -> next -> data = val;
+                min -> next -> next = nullptr;
                 min = min -> next;
             }
         }
