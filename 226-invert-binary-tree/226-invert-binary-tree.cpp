@@ -15,13 +15,13 @@ public:
         if(!root){
             return root;
         }
-        // TreeNode* dummy = root;
+        TreeNode* dummy = root;
         TreeNode* temp = nullptr;
-        invertTree(root->left);
-        invertTree(root->right);
-        temp = root->right;
-        root->right = root->left;
-        root->left = temp;
+        invertTree(dummy->left);
+        invertTree(dummy->right);
+        temp = dummy->right;
+        dummy->right = dummy->left;
+        dummy->left = temp;
         
         // TreeNode* lft = invertTree(dummy->left);
         // TreeNode* rgt = invertTree(dummy->right);
