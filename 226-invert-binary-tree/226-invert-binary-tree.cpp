@@ -17,19 +17,14 @@ public:
         }
         TreeNode* dummy = root;
         TreeNode* temp = nullptr;
-        invertTree(dummy->left);
-        invertTree(dummy->right);
-        temp = dummy->right;
-        dummy->right = dummy->left;
-        dummy->left = temp;
         
-        // TreeNode* lft = invertTree(dummy->left);
-        // TreeNode* rgt = invertTree(dummy->right);
-        // temp = rgt;
-        // rgt = lft;
-        // lft = temp;
-        // dummy->left = lft;
-        // dummy->right = rgt;
+        TreeNode* lft = invertTree(dummy->left);
+        TreeNode* rgt = invertTree(dummy->right);
+        temp = rgt;
+        rgt = lft;
+        lft = temp;
+        dummy->left = lft;
+        dummy->right = rgt;
         
         return root;
     }
