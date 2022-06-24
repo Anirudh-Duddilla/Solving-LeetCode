@@ -22,10 +22,8 @@ public:
             return -1;
         }
         int lleft = 1+height(root->left);
-        cout << "l = " <<lleft <<", "<< root->val;
         int lright = 1+ height(root->right);
         dia = max(dia, (lleft+lright));
-        cout<<" r = " << lright <<", "<< root->val<< " d = " << dia << endl;
         return max(lleft, lright);
     }
 };
