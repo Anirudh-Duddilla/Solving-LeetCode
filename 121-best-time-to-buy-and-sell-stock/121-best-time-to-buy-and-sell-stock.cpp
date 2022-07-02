@@ -11,9 +11,7 @@ public:
             else if(prices[i] < min){
                 min = max = prices[i];
             }
-            if(dif < (max-min)){
-                dif = max - min;
-            }
+            dif = std::max(dif,(max-min));
         }
         return dif;
     }
