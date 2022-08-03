@@ -8,16 +8,17 @@ public:
         while(r < s.size()){
             if(r <= k-1){
                 k_num = k_num + ((s[r] - '0')*pow(10,(k-r-1)));
-                if(num%k_num == 0 && r-l == k-1){cout << "if " << endl;div+=1;}
+                if(num%k_num == 0 && r-l == k-1){div+=1;}
                 r+=1;
                 continue;
             }
             k_num  = ((k_num*10) + (s[r] - '0'));
             k_num = k_num % lround(pow(10,k));            
-            if(k_num !=0 && num%k_num == 0){cout << "entrd"<<endl;div+=1;}
+            if(k_num !=0 && num%k_num == 0){div+=1;}
             r += 1;
             l += 1;
         }
+        s.erase();
         return div;
     }
 };
