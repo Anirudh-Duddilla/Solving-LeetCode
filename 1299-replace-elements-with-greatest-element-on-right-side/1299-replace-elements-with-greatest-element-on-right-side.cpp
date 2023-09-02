@@ -4,10 +4,10 @@ public:
         int length = arr.size()-1;
         int high = arr[length];
         arr[length] = -1;
-        int temp = 0;
+        // int temp = 0;
         for(int i = length-1; i >-1; i--){
             if(high < arr[i]){
-                temp = high;
+                int temp = high;
                 high = arr[i];
                 arr[i] = temp;
                 continue;
