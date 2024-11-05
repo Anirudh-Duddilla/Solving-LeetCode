@@ -22,6 +22,5 @@ class Solution:
                 stck.append(c)
             # print(c, stck, stck[-1])
             
-        if len(stck) != 0:return False
-        return True
+        return len(stck)==0
                 
