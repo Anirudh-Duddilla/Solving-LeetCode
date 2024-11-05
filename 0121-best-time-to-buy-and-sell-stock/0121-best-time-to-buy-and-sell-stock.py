@@ -6,8 +6,8 @@ class Solution:
             diff = prices[r] - prices[l]
             if diff < 0:
                 l = r
-                r = l+1
-                continue
+                # r = l+1
+                # continue
             res = max(res, diff)
             r+=1
             
