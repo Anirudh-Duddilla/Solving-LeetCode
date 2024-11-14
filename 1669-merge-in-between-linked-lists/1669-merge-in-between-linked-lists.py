@@ -6,15 +6,15 @@
 class Solution:
     def mergeInBetween(self, list1: ListNode, a: int, b: int, list2: ListNode) -> ListNode:
         length = 0
-        slw, fst = list1, list1
-        while fst and fst.next:
-            length +=1
-            fst = fst.next.next
-        length = length*2
+        slw = list1
+        # while fst and fst.next:
+        #     length +=1
+        #     fst = fst.next.next
+        # length = length*2
     
         temp = ListNode()
-        for i in range(0,b):
-            if i == a-1:
+        while length < b:
+            if length == a-1:
                 temp.next = slw.next
                 curr = list2
                 slw.next = curr
@@ -22,5 +22,6 @@ class Solution:
                 while curr.next:
                     curr = curr.next
             slw = slw.next
+            length+=1
         curr.next = slw
         return list1
