@@ -49,11 +49,15 @@ class Solution:
                     board[r][c] = 'X'
                     # print(board[r][c])
                     bfs(r,c)
-                    
-        for r in range(0,rows):
-            for c in range(0,cols):
-                if board[r][c] == 'O' and (r,c) not in visit:
+        
+        for r, c in ls:
+            if board[r][c] == 'O' and (r,c) not in visit and (r,c) not in borderls:
                     board[r][c] = 'X'
                     bfs(r,c)
+        # for r in range(0,rows):
+        #     for c in range(0,cols):
+        #         if board[r][c] == 'O' and (r,c) not in visit and not in borderls:
+        #             board[r][c] = 'X'
+        #             bfs(r,c)
                     
         # print(visit)
