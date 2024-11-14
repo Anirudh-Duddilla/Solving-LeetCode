@@ -12,11 +12,9 @@ class Solution:
                     q.append((i,j))
                 elif grid[i][j] == 1:
                     fcount+=1
-        # print(q,fcount)
         while q:
             row, col = q.popleft()
             visit.add((row,col))
-            # print(row,col)
             dirs = [[1,0],[-1,0],[0,1],[0,-1]]
             for dr,dc in dirs:
                 r,c = row+dr,col+dc
@@ -25,14 +23,11 @@ class Solution:
                    (r,c) not in visit and
                    (r,c) not in fresh):
                     if grid[r][c] == 1:
-                        # print("r:",r,"c:",c)
                         fresh.append((r,c))
                         visit.add((r,c))
                         fcount-=1
             if not q and fresh:
-                # print("F:",fresh,fcount)
                 q .extend(fresh)
-                # print("Q:",q)
                 fresh = []
                 time+=1
                 
