@@ -10,11 +10,12 @@ class Solution:
             for j in range(0,cols):
                 if grid[i][j] == 2:
                     q.append((i,j))
+                    visit.add((i,j))
                 elif grid[i][j] == 1:
                     fcount+=1
         while q:
             row, col = q.popleft()
-            visit.add((row,col))
+            # visit.add((row,col))
             dirs = [[1,0],[-1,0],[0,1],[0,-1]]
             for dr,dc in dirs:
                 r,c = row+dr,col+dc
