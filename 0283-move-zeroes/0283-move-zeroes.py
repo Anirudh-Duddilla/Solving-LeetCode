@@ -9,12 +9,10 @@ class Solution:
             if nums[l] == 0 and nums[r] != 0:
                 nums[l] = nums[r]
                 nums[r] = 0
-                l += 1
-                r += 1
             elif nums[l] == nums[r] == 0:
                 r += 1
-            else:
-                l += 1
-                r += 1
+                continue
+            l += 1
+            r += 1
                 
                 
