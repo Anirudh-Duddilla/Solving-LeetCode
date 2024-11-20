@@ -13,17 +13,13 @@ class Solution:
         
         while stck:
             node,r = stck.pop()
-            # res += node.val
-            # print(node.val,r)
             if not node.left and not node.right:
                 if r == targetSum:return True
-                # else:
-                #     print("end",r)
-                #     # res -= node.val
-            if node.right:
-                stck.append((node.right, r+node.right.val))
-            if node.left:
-                stck.append((node.left, r+node.left.val))
+            else:
+                if node.right:
+                    stck.append((node.right, r+node.right.val))
+                if node.left:
+                    stck.append((node.left, r+node.left.val))
                     
         return False
         
