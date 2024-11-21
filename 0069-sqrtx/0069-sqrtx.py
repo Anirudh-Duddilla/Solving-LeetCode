@@ -5,7 +5,7 @@ class Solution:
         while l <= r:
             m = (l+r)//2
             s = m*m
-            print("l",l,"m",m,"r",r,"s",s,"x",x,"res",res)
+            # print("l",l,"m",m,"r",r,"s",s,"x",x,"res",res)
             if s > x:
                 r = m - 1
             else:
