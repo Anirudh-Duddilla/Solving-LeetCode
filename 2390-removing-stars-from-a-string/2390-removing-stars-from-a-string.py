@@ -1,9 +1,8 @@
 class Solution:
     def removeStars(self, s: str) -> str:
-        q = deque()
+        q = []
         
         for c in s:
-            # print(c,q)
             if c == '*':
                 q.pop()
                 continue
