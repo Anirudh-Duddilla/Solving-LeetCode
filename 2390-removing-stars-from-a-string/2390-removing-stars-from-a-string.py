@@ -8,9 +8,9 @@ class Solution:
                 continue
             q.append(c)
         
-        w = ""
+#         w = ""
         
-        for c in q:
-            w += c
+#         for c in q:
+#             w += c
             
-        return w
+        return "".join(q)
