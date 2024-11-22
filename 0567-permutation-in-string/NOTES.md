@@ -1,0 +1,11 @@
+"ab"
+"eidbaooo"
+"ab"
+"eidboaooo"
+"ab"
+"aaaaaaaaaaaaacb"
+"abcdefgh"
+"aaaaaaaaaaaaacbidefghabc"
+"adc"
+"dcda"
+​
