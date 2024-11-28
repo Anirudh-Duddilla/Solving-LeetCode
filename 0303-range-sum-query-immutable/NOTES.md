@@ -1,1 +1,4 @@
-​
+["NumArray","sumRange"]
+[[[-1]],[0,0]]
+["NumArray", "sumRange", "sumRange", "sumRange"]
+[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
