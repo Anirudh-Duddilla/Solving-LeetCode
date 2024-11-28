@@ -2,18 +2,18 @@ class NumArray:
 
     def __init__(self, nums: List[int]):
         self.nums_array = nums
-
+        self.prefix = []
+        pre_sum = 0
+        for n in self.nums_array:
+            pre_sum += n
+            self.prefix.append(pre_sum)
+            
     def sumRange(self, left: int, right: int) -> int:
-        sum = 0
-        while left <= right:
-            # print(left,self.nums_array[left],right,self.nums_array[right],sum)
-            if left == right:
-                sum = sum + self.nums_array[left]
-                return sum
-            sum = sum + self.nums_array[left] + self.nums_array[right]
-            left += 1
-            right -= 1
-        return sum
+        # sum = 0
+        if left == 0:
+            return self.prefix[right]
+        else:
+            return self.prefix[right] - self.prefix[left-1]
 
 
 # Your NumArray object will be instantiated and called as such:
