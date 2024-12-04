@@ -5,23 +5,18 @@ class Solution:
         def dfs(i,s):
             if i == len(nums):
                 res.append(s)
-                # print("end",i,res,s)
+                # print("len",i, res,s)
                 return res
             else:
-
-                # print(res,s)
-                # print(res,s)
                 s.append(nums[i])
                 s1 = s.copy()
-                # print("b",res,s)
+                # print("bef",i, res,s)
                 dfs(i+1, s)
-                # print("a",i,res,s)
-                # res.append(s)
                 s1.pop()
+                print("aft",i, res,s1)
                 dfs(i+1, s1)
-                # print(i,res,s)
-                # res.append(s1)
-            # print(i,res,s)
+            #     print("all",i, res)
+            # print("end",i, res,s,s1)
             return res
         
         dfs(0,s)
