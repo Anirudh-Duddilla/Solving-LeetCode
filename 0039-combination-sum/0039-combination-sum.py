@@ -6,17 +6,17 @@ class Solution:
             # print("strt",i,sm,s)
             if sm == target:
                 res.append(s[:])
+                return
                 # print("res",i,sm,s,res)
-                return res
-            elif sm > target or i == len(candidates):
+            if sm > target or i == len(candidates):
                 # print("sm>tar",i,sm,s)
                 return
             else:
                 s.append(candidates[i])
-                sm += candidates[i]
-                dfs(i,sm, s)
+                # sm += candidates[i]
+                dfs(i,sm + candidates[i], s)
                 s.pop()
-                sm -= candidates[i]
+                # sm -= candidates[i]
                 dfs(i+1, sm, s)
                 
             return res
