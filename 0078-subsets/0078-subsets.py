@@ -4,19 +4,19 @@ class Solution:
         s = []
         def dfs(i,s):
             if i == len(nums):
-                res.append(s)
+                res.append(s[:])
                 # print("len",i, res,s)
                 return res
             else:
                 s.append(nums[i])
-                s1 = s.copy()
+                # s1 = s.copy()
                 # print("bef",i, res,s)
                 dfs(i+1, s)
-                s1.pop()
-                print("aft",i, res,s1)
-                dfs(i+1, s1)
+                s.pop()
+                # print("aft",i, res,s)
+                dfs(i+1, s)
             #     print("all",i, res)
-            # print("end",i, res,s,s1)
+            # print("end",i, res,s)
             return res
         
         dfs(0,s)
