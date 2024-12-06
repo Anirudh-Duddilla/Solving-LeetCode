@@ -8,16 +8,13 @@ class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
         sum_list = []
         total = 0
-        # curr = root
         q = deque()
         q.append(root)
         
         while q:
             curr = q.popleft()
-            # print(curr.val,q)
             if low <= curr.val <= high:
                 total+=curr.val
-                # sum_list.append(curr.val)
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:
@@ -29,6 +26,5 @@ class Solution:
                 curr = curr.left
             if curr:
                 q.append(curr)
-        # print(sum_list)
         return total
             
