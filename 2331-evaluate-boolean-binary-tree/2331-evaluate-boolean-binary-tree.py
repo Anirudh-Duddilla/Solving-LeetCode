@@ -6,12 +6,12 @@
 #         self.right = right
 class Solution:
     def evaluateTree(self, root: Optional[TreeNode]) -> bool:
-        def dfs(curr):
-            if not curr.left and not curr.right:
-                return bool(curr.val)
-            if curr.val == 2:
-                return dfs(curr.left) or dfs(curr.right)
-            elif curr.val == 3:
-                return dfs(curr.left) and dfs(curr.right)
+        # def dfs(curr):
+        if not root.left and not root.right:
+            return bool(root.val)
+        if root.val == 2:
+            return self.evaluateTree(root.left) or self.evaluateTree(root.right)
+        elif root.val == 3:
+            return self.evaluateTree(root.left) and self.evaluateTree(root.right)
             
-        return dfs(root)
+        # return dfs(root)
