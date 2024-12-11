@@ -9,9 +9,9 @@ class Solution:
             
         newset = toset.difference(fromset)
         
-        print(fromset)
-        print(toset)
-        print(newset, newset.difference(fromset).pop())
+        # print(fromset)
+        # print(toset)
+        # print(newset, newset.difference(fromset).pop())
         return newset.difference(fromset).pop()
 #             # print(i,j)
 #             if adj.get(i,[]) == []:
