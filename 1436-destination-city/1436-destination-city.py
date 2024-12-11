@@ -1,9 +1,9 @@
 class Solution:
     def destCity(self, paths: List[List[str]]) -> str:
-        fromset = set()
-        for p in paths:
-            fromset.add(p[0])
-            
-        for p in paths:
-            if p[1] not in fromset:
-                return p[1]
+        start = set()
+        final = set()
+
+        for a,b in paths:
+            start.add(a)
+            final.add(b)
+        return [b for b in final if b not in start][0]
