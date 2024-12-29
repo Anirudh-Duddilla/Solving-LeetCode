@@ -29,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
