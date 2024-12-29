@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Sorting
+|  |
+| ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
