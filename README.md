@@ -33,9 +33,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
