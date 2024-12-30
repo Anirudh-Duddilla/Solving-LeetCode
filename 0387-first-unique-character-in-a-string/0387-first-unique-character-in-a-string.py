@@ -1,14 +1,15 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        sdict = defaultdict(list)
-        slist = list(s)
-        for i, c in enumerate(slist):
-            sdict[c].append(i)
-        res = inf
-        for key in sdict:
-            if len(sdict[key]) == 1:
-                res = min(res, sdict[key][0])
+        n = len(s)
+        count = defaultdict(int)
+        for i, c in enumerate(s):
+            if c not in count:
+                count[c] = i
+            else:
+                count[c] = n
+        
+        res = n
+        for c in count:
+            res = min(res, count[c])
 
-        if res == inf:
-            return -1
-        return res
+        return -1 if res == n else res
