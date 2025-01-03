@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
+| [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
 | [2035-count-sub-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Union Find
@@ -67,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
