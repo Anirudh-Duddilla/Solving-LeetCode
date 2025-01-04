@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
+| [0617-merge-two-binary-trees](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0871-keys-and-rooms) |
 | [2035-count-sub-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
+| [0617-merge-two-binary-trees](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0871-keys-and-rooms) |
 | [2035-count-sub-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -76,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
