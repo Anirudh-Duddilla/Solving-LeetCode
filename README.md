@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
