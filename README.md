@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
@@ -95,4 +96,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
