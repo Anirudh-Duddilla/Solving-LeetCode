@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +113,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
