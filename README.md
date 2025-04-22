@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
