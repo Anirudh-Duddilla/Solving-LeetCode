@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
