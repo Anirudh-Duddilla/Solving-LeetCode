@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3379-score-of-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
