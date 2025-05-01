@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
