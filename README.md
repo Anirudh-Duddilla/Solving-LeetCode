@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0213-house-robber-ii) |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1524-string-matching-in-an-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2035-count-sub-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
+| [1524-string-matching-in-an-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
