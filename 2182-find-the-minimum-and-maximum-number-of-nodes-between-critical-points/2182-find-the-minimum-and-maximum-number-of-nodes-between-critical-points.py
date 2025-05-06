@@ -28,4 +28,4 @@ class Solution:
         mind = mind if mind != inf else -1
         maxd = maxd if maxd > 0 else -1
 
-        return [mind,maxd]
+        return [mind, maxd]
