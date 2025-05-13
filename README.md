@@ -106,10 +106,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
