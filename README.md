@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0445-add-two-numbers-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
