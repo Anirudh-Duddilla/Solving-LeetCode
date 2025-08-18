@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1127-last-stone-weight](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1127-last-stone-weight) |
 | [1524-string-matching-in-an-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2035-count-sub-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -186,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
