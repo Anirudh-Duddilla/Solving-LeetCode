@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0091-decode-ways) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0647-palindromic-substrings) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -202,4 +204,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
