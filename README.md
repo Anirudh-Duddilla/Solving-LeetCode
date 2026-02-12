@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0200-number-of-islands) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/0056-merge-intervals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anirudh-Duddilla/Solving-LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
